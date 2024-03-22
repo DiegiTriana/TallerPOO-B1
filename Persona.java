@@ -5,6 +5,10 @@ public class Persona{
     private char sexo;
     private double peso;
     private double altura;
+
+    public void persona(){
+
+    }
     
 
     public Persona(String nombre, int edad, char sexo)
